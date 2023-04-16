@@ -1,10 +1,10 @@
 * Spring 2023 - Lab 10
 
-* Last name:
+* Last name: Cataluna
 
-* First name:
+* First name: Kert Harvey
 
-* GitHub username:
+* GitHub username: kertharv
 
 * Notes:
 
